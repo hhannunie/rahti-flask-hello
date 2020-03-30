@@ -3,7 +3,7 @@ import json
 import os
 
 # EDIT THE FOLLOWING LINE
-DefaultTitle="Work in progress"
+DefaultTitle="Application from Student 27"
 
 # Don't touch the code below unless you really mean to.
 
